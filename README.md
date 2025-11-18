@@ -19,32 +19,6 @@ Es zeigt eine vollständige Machine-Learning-Pipeline mit:
 - Modularer Code über src/
 
 Das Projekt dient als Demonstrator für saubere Datenanalyse, Modellierung und strukturierte Python-Projektorganisation.
-
----
-
-##  Projektstruktur
-
-```text
-FALKEN_KLASSIFIKATION/
-│
-├── data/
-│   └── hawks.csv                     # Datensatz (lokale Kopie des Hawks-Datensatzes)
-│
-├── notebooks/
-│   └── falken_classifikation.ipynb   # Haupt-Notebook mit der Analyse
-│
-├── src/                              # Wiederverwendbare Python-Module
-│   ├── __init__.py
-│   ├── data_preprocessing.py         # Laden, Bereinigung, Train/Test-Split
-│   ├── feature_engineering.py        # Skalierung, weitere Transformationen
-│   ├── model_training.py             # Training verschiedener ML-Modelle
-│   └── evaluation.py                 # Auswertung & Visualisierung (Accuracy, Confusion Matrix)
-│
-├── requirements.txt                  # Python-Abhängigkeiten
-└── README.md
-
----
-
 ##Vorgehensweise
 ###1. Datenvorbereitung
 - CSV einlesen
@@ -101,6 +75,32 @@ Schwerpunkte:
 Datenanalyse • Machine Learning • Klassifikation • Feature Engineering
 
 LinkedIn: www.linkedin.com/in/natalia-archipenko-335357271
+---
+
+##  Projektstruktur
+
+```text
+FALKEN_KLASSIFIKATION/
+│
+├── data/
+│   └── hawks.csv                     # Datensatz (lokale Kopie des Hawks-Datensatzes)
+│
+├── notebooks/
+│   └── falken_classifikation.ipynb   # Haupt-Notebook mit der Analyse
+│
+├── src/                              # Wiederverwendbare Python-Module
+│   ├── __init__.py
+│   ├── data_preprocessing.py         # Laden, Bereinigung, Train/Test-Split
+│   ├── feature_engineering.py        # Skalierung, weitere Transformationen
+│   ├── model_training.py             # Training verschiedener ML-Modelle
+│   └── evaluation.py                 # Auswertung & Visualisierung (Accuracy, Confusion Matrix)
+│
+├── requirements.txt                  # Python-Abhängigkeiten
+└── README.md
+
+---
+
+
 
 
 
