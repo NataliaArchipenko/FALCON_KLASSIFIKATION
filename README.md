@@ -19,6 +19,8 @@ Es zeigt eine vollständige Machine-Learning-Pipeline mit:
 - Modularer Code über src/
 
 Das Projekt dient als Demonstrator für saubere Datenanalyse, Modellierung und strukturierte Python-Projektorganisation.
+---
+
 ##Vorgehensweise
 ###1. Datenvorbereitung
 - CSV einlesen
