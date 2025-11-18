@@ -3,6 +3,7 @@
 
 In diesem Projekt wird der **Hawks-Datensatz** verwendet, um Falkenarten anhand biologischer Merkmale zu klassifizieren.  
 Das Ziel ist, verschiedene klassische Machine-Learning-Modelle miteinander zu vergleichen und ein reproduzierbares, gut strukturiertes Data-Science-Projekt für Bewerbungen zu zeigen.
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
