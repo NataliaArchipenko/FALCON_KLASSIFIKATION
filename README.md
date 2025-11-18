@@ -50,12 +50,14 @@ Verwendete Modelle:
 - Skalierung verbessert besonders SVM-Modelle deutlich
 
 
-Bereich	Technologie
-Programmiersprache	Python
-Datenanalyse	Pandas, NumPy
-Machine Learning	Scikit-Learn
-Visualisierung	Matplotlib, Seaborn
-Projektstruktur	Modularer Code (src/)
+| Bereich          | Technologie                |
+|------------------|---------------------------|
+| Programmiersprache | Python                  |
+| Datenanalyse     | Pandas, NumPy             |
+| Machine Learning | Scikit-Learn             |
+| Visualisierung   | Matplotlib, Seaborn       |
+| Projektstruktur  | modularer Code (`src/`)   |
+
 
 ###Nutzung
 **Repository klonen**
