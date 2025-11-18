@@ -65,18 +65,14 @@ Verwendete Modelle:
 | Projektstruktur  | modularer Code (`src/`)   |
 
 
-### Nutzung
-**Repository klonen**
-
-git clone https://github.com/NataliaArchipenko/FALKEN_KLASSIFIKATION.git
-
-**Requirements installieren**
-
+**Nutzung**
+1. Repository klonen:
+git clone https://github.com/NataliaArchipenko/FALCON_KLASSIFIKATION.git
+2. Requirements installieren:
 pip install -r requirements.txt
-
-**Notebook starten**
-
+3. Notebook öffnen:
 jupyter notebook
+4. Notebook ausführen.  Alle Schritte sind dokumentiert.
 
 
 **Autorin**
