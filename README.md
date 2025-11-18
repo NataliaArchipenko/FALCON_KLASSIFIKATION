@@ -21,7 +21,7 @@ Es zeigt eine vollständige Machine-Learning-Pipeline mit:
 Das Projekt dient als Demonstrator für saubere Datenanalyse, Modellierung und strukturierte Python-Projektorganisation.
 ---
 ##  Projektstruktur
-
+text'''
 FALKEN_KLASSIFIKATION/
 │
 ├── data/
