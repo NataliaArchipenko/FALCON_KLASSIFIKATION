@@ -44,27 +44,28 @@ FALKEN_KLASSIFIKATION/
 └── README.md
 
 ---
-## Vorgehensweise
-### 1. Datenvorbereitung
+
+##Vorgehensweise
+###1. Datenvorbereitung
 - CSV einlesen
 - Relevante Features auswählen
 - Zielvariable encodieren
 - Grundlegende Statistiken anzeigen
-### 2. Datenaufteilung & Skalierung
+###2. Datenaufteilung & Skalierung
 ***X_train, X_test, y_train, y_test = split_data(X, y)***
 ***X_train_s, X_test_s, scaler = scale_features(X_train, X_test)***
-### 3. Training verschiedener Modelle
+###3. Training verschiedener Modelle
 
 Verwendete Modelle:
 - SVC (linear, poly, rbf, sigmoid)
 - Logistische Regression
 - Gaussian Naive Bayes
 - Random Forest
-### 4. Evaluation & Visualisierung
+###4. Evaluation & Visualisierung
 - Accuracy-Vergleich
 - Confusion-Matrix
 - Classification Report
-### 5.  Ergebnisse
+###5.  Ergebnisse
 - Modelle erreichen 95–99 % Genauigkeit
 - Beste Modelle:
       - SVC (RBF)
@@ -80,7 +81,7 @@ Machine Learning	Scikit-Learn
 Visualisierung	Matplotlib, Seaborn
 Projektstruktur	Modularer Code (src/)
 
-### Nutzung
+###Nutzung
 **Repository klonen**
 git clone https://github.com/NataliaArchipenko/FALKEN_KLASSIFIKATION.git
 
