@@ -40,7 +40,8 @@ FALKEN_KLASSIFIKATION/
 │
 ├── requirements.txt                  # Python-Abhängigkeiten
 └── README.md
-```text
+text'''
+
 ---
 
 ## Vorgehensweise
