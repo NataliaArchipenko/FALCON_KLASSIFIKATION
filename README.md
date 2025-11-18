@@ -39,7 +39,7 @@ FALKEN_KLASSIFIKATION/
 │   └── evaluation.py                 # Auswertung & Visualisierung (Accuracy, Confusion Matrix)
 │
 ├── requirements.txt                  # Python-Abhängigkeiten
-└── README.md
+└── README.md'''
 
 ---
 
