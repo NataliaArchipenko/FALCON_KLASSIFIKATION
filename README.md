@@ -22,7 +22,6 @@ Das Projekt dient als Demonstrator für saubere Datenanalyse, Modellierung und s
 ---
 ##  Projektstruktur
 
-```text
 FALKEN_KLASSIFIKATION/
 │
 ├── data/
@@ -36,11 +35,11 @@ FALKEN_KLASSIFIKATION/
 │   ├── data_preprocessing.py         # Laden, Bereinigung, Train/Test-Split
 │   ├── feature_engineering.py        # Skalierung, weitere Transformationen
 │   ├── model_training.py             # Training verschiedener ML-Modelle
-│   └── evaluation.py                 # Auswertung & Visualisierung (Accuracy, Confusion Matrix)
+│   └── evaluation.py                 # Auswertung & Visualisierung
 │
 ├── requirements.txt                  # Python-Abhängigkeiten
 └── README.md
-'''
+
 
 ---
 
