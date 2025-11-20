@@ -50,8 +50,10 @@ Verwendete Modelle:
 ### 5.  Ergebnisse
 - Modelle erreichen 95–99 % Genauigkeit
 - Beste Modelle:
+  
       - SVC (RBF)
       - Random Forest
+  
 - Confusion-Matrizen zeigen eine sehr präzise Klassifikation
 - Skalierung verbessert besonders SVM-Modelle deutlich
 
