@@ -71,9 +71,9 @@ Verwendete Modelle:
 1. Repository klonen:
 git clone https://github.com/NataliaArchipenko/FALCON_KLASSIFIKATION.git
 2. Requirements installieren:
-pip install -r requirements.txt
+***pip install -r requirements.txt***
 3. Notebook öffnen:
-jupyter notebook
+***jupyter notebook***
 4. Notebook ausführen.  Alle Schritte sind dokumentiert.
 
 
