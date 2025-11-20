@@ -64,7 +64,7 @@ Verwendete Modelle:
 | Datenanalyse     | Pandas, NumPy             |
 | Machine Learning | Scikit-Learn             |
 | Visualisierung   | Matplotlib, Seaborn       |
-| Projektstruktur  | modularer Code (`src/`)   |
+| Projektstruktur  | modularer Code           |
 
 
 **Nutzung**
